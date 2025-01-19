@@ -6,3 +6,4 @@ This is a Python package for implementing the TOPSIS (Technique for Order Prefer
 
 Install the package using pip:
 
+pip install Topsis-Ayushi-102203346
